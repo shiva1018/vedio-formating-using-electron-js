@@ -1,0 +1,20 @@
+{
+  "name": "vedioformating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "random": "^3.0.6",
+    "string": "^3.3.3"
+  },
+  "devDependencies": {
+    "electron": "^16.0.4"
+  }
+}
